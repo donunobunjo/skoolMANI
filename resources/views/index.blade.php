@@ -50,10 +50,10 @@
 
                             <div class="header-bar-menu">
                                 <ul class="flex justify-content-center align-items-center py-2 pt-md-0">
-                                    
+                                    <a href="{{ route('login') }}">Login</a>
                                     <!--<li><a data-toggle="modal" data-target="#modal">Login</a></li>-->
                                     <!--<li><button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modal">Login</button></li>-->
-                                    <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modal">Login</button>
+                                    <!--<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modal">Login</button>-->
                                     
                                 </ul>
                             </div><!-- .header-bar-menu -->
@@ -62,25 +62,7 @@
                 </div><!-- .container-fluid -->
             </div><!-- .top-header-bar -->
 
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="nav-bar">
+         <div class="nav-bar">
                 <div class="container">
                     <div class="row">
                         <div class="col-9 col-lg-3">
